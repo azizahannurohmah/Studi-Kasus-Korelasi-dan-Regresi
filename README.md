@@ -1,5 +1,3 @@
 # Studi Kasus Korelasi dan Regresi
-Group H - Kelas B \\
-\vspace{1cm}
-Mata Kuliah Data Mining & Business Intelligence\\
+Group H - Mata Kuliah Data Mining & Business Intelligence Kelas (B)
 
